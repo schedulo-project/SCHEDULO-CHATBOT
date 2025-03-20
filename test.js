@@ -1,4 +1,4 @@
-const apiKey = "AIzaSyCXDlPk5Pp5hYxZQ-bhc-vVbj6NvCAt3Sc"; // 보안상 가림
+const apiKey = "**"; // 보안상 가림
 
 const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
 
